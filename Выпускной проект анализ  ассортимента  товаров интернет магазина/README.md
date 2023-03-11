@@ -11,8 +11,12 @@
 
 
 **Ссылка на презентацию:** 
-**Ссылка на дашборд:**   
 
+https://disk.yandex.ru/i/qRjuj63BvFviyQ
+
+**Ссылка на дашборд:**
+
+https://public.tableau.com/views/E-commers/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 **Навыки и инструменты**    
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация  
