@@ -9,4 +9,8 @@
 выгрузка данных, обработка данных, визуализация данных, построение дашборда, SQL, SQLite, Tableau
 
 ссылка на дашборд на сайте Tableau Public:
+
 https://public.tableau.com/views/telecom_csi_tableau/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+ссылку на pdf-файл с презентацией:
+https://1drv.ms/p/s!At5uE38o6zo9gkdxxgCThf-mgl-x?e=SKWaRc
